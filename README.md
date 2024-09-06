@@ -13,6 +13,9 @@
 
 1. **Download the latest version:**
    - [Certificate Creator.exe](https://github.com/username/certificate-creator/releases)
+  
+   - ![Screenshot 2024-09-06 220508](https://github.com/user-attachments/assets/4e9f0918-f809-450f-9eb9-3db58d7940c7)
+
 
 2. **Run the application:**
    - Simply launch the downloaded `Certificate Creator.exe`.
