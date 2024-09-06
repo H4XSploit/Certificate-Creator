@@ -42,6 +42,11 @@ When downloading, the application creates a ZIP file with multiple text files, a
 > The developer of this software assumes no liability for any misuse or illegal use. This application is developed for educational purposes only and should be used strictly for legal and legitimate purposes.  
 > **Please use this software responsibly!** 🙏
 
+## 🛡️ Antivirus Warning
+
+> **Note:**  
+> Because this application is provided as an `.exe` file, some antivirus programs might flag it as a potential threat. This is a common occurrence with executable files generated from Python scripts. Rest assured, the application is safe to use. However, please make sure to download it only from this official source to avoid any security risks.
+> 
 ## 💬 Support
 
 If you have any questions or issues, feel free to contact me:  
