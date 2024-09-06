@@ -12,7 +12,7 @@
 ## 🚀 Installation and Execution
 
 1. **Download the latest version:**
-   - [Certificate Creator.exe](https://github.com/username/certificate-creator/releases)
+  
   
 ![Screenshot 2024-09-06 220516](https://github.com/user-attachments/assets/7dd59533-2de1-4462-8beb-7058c8aa0ac9)
 
